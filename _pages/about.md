@@ -68,7 +68,7 @@ He Huang, **Jinlei Ma**<sup>α</sup> , Hongyu Liu, and Jingke Hong<sup>†</sup>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working Paper</div><img src='images/papers/P2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Does Green Finance Causally Reduce Carbon Intensity in Cities? Evidence from 285 Cities in China.]
+Does Green Finance Causally Reduce Carbon Intensity in Cities? Evidence from 285 Cities in China.
 
 Xueyang Li, **Jinlei Ma**<sup>†</sup>
 
