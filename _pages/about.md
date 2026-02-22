@@ -29,12 +29,14 @@ I am still figuring out how tools from artificial intelligence and management sc
   </p>
 </details>
 
+<span id="educations"></span>
 # 📖 Educations
 
 - *2026.01 - Present*, ‌Visiting Student, School of Management Science and Real Estate, Chongqing University.（Advisor: Prof.Jingke Hong）
 
 - *2022.09 - Present*, Undergraduate Student, School of Business, AnHui University of Technology.（Advisor: ‌PhD.He Huang）
 
+<span id="news"></span>
 # 🔥 News
 - *2025.09*: &nbsp;📄🌟 <span style="color:#d62728;"><strong>Published in Sustainable Production and Consumption (SCI & SSCI Q1)</strong></span>.
 
@@ -111,6 +113,7 @@ I am still figuring out how tools from artificial intelligence and management sc
 </details>
 
 <!-- # TODO Add undergraduate research statement -->
+<span id="publications"></span>
 # 📝 Publications 
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
@@ -141,7 +144,7 @@ Xueyang Li, **Jinlei Ma**<sup>†</sup>
 </div>
 </div>
 
-
+<span id="honors-and-awards"></span>
 # 🎖 Honors and Awards
 
 - *2024.08*:  <span style="color:#d62728;"><strong>National Third Prize, 10th National College Student Statistical Modeling Competition</strong></span>
