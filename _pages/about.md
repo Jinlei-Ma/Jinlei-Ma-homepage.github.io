@@ -39,8 +39,10 @@ Feel free to reach out! <b>Email</b>: your_email_here
 </details>
 
 # 📖 Educations
-- *2022.09 - Present*, Undergraduate Student, School of Business, AnHui University of Technology. 
-- *2026.01 - Present*, ‌Visiting Student, School of Management Science and Real Estate, Chongqing University. 
+
+- *2026.01 - Present*, ‌Visiting Student, School of Management Science and Real Estate, Chongqing University.（Advisor: Prof.Jingke Hong）
+
+- *2022.09 - Present*, Undergraduate Student, School of Business, AnHui University of Technology.（Advisor: ‌PhD.He Huang）
 
 # 🔥 News
 - *2025.09*: &nbsp;📄🌟 <span style="color:#d62728;"><strong>Published in Sustainable Production and Consumption (SCI & SSCI Q1)</strong></span>.
