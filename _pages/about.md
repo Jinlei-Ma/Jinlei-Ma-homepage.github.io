@@ -147,20 +147,21 @@ Xueyang Li, **Jinlei Ma**<sup>†</sup>
 </div>
 </div>
 
+
 # 🎖 Honors and Awards
 
-- *2024.08* <span style="color:#d62728;"><strong>National Third Prize, 10th National College Student Statistical Modeling Competition</strong></span>
+- *2024.08*:  <span style="color:#d62728;"><strong>National Third Prize, 10th National College Student Statistical Modeling Competition</strong></span>
 
-- *2024.07* First Prize (Provincial Level), Anhui College Student Statistical Modeling Competition
+- *2024.07*:  First Prize (Provincial Level), Anhui College Student Statistical Modeling Competition
 
-- *2024.07* Second Prize (Provincial Level), Anhui College Student Market Research and Analysis Competition
+- *2024.07*:  Second Prize (Provincial Level), Anhui College Student Market Research and Analysis Competition
 
-- *2024.05* Third Prize, Chinese College Student Energy Economics Academic Innovation Competition
+- *2024.05*:  Third Prize, Chinese College Student Energy Economics Academic Innovation Competition
 
-- *2023.12* Excellent Report Award, 13th “Jin Jing Le Dao” Economic Hotspot Analysis Competition
+- *2023.12*:  Excellent Report Award, 13th “Jin Jing Le Dao” Economic Hotspot Analysis Competition
 
-- *2023.12* <span style="color:#d62728;"><strong>Outstanding Research Report, Youth Development Department of the Communist Youth League Central Committee</strong></span>
+- *2023.12*:  <span style="color:#d62728;"><strong>Outstanding Research Report, Youth Development Department of the Communist Youth League Central Committee</strong></span>
 
-- *2023.12* <span style="color:#d62728;"><strong>National Third Prize, 18th “Challenge Cup” National Undergraduate Academic Competition</strong></span>
+- *2023.12*:  <span style="color:#d62728;"><strong>National Third Prize, 18th “Challenge Cup” National Undergraduate Academic Competition</strong></span>
 
-- *2023.05* First Prize (Provincial Level), Anhui “Challenge Cup” Undergraduate Academic Competition
+- *2023.05*:  First Prize (Provincial Level), Anhui “Challenge Cup” Undergraduate Academic Competition
