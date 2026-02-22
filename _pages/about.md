@@ -116,6 +116,7 @@ Feel free to reach out! <b>Email</b>: your_email_here
 - *2022.12*: &nbsp;📊🏭 Participated in large-scale field research on digital transformation of the steel industry involving over 180 enterprises.
 <details>
 
+<!-- # TODO Add undergraduate research statement -->
 # 📝 Publications 
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
