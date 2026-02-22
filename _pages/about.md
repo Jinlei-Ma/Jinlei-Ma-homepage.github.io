@@ -43,8 +43,78 @@ Feel free to reach out! <b>Email</b>: your_email_here
 - *2026.01 - Present*, ‌Visiting Student, School of Management Science and Real Estate, Chongqing University. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;📄🌟 <span style="color:#d62728;"><strong>Published in Sustainable Production and Consumption (SCI & SSCI Q1)</strong></span>.
+
+- *2025.04*: &nbsp;📄📝 Completed working paper “Heterogeneous Effects of Green Finance on Urban Decarbonization: Evidence from 285 Cities in China”.
+
+- *2024.12*: &nbsp;🚀📘 Project selected for the 2024 National College Student Social Practice “Qian Xiao Qian Xiang” Program.
+- 
+- *2024.11*: &nbsp;🚀🏅 <span style="color:#d62728;"><strong>National Undergraduate Innovation and Entrepreneurship Training Program approved (PI)</strong></span>.
+
+- *2024.11*: &nbsp;🚀📘 Successfully completed the 2024 National Summer Social Practice Program (Central University of Finance and Economics).
+
+- *2024.10*: &nbsp;🎤🌟 <span style="color:#d62728;"><strong>Oral Presentation at the 3rd Carbon Neutrality Forum (Tsinghua University)</strong></span>.
+
+- *2024.08*: &nbsp;🏆🥉 <span style="color:#d62728;"><strong>National Third Prize</strong></span>, 10th National College Student Statistical Modeling Competition.
+
+<details markdown="1">
+  <summary><font size="+1"><b>More news</b></font></summary>
+- *2024.07*: &nbsp;🏆🥈 Awarded Second Prize in the 2024 Anhui Provincial Market Research and Analysis Competition.
+
+- *2024.07*: &nbsp;🏆🌟 Awarded Outstanding Team in the 2024 Summer Social Practice Program.
+
+- *2024.06*: &nbsp;🏆🥇 Awarded First Prize (Anhui Division) in the 10th National College Student Statistical Modeling Competition.
+
+- *2024.05*: &nbsp;🚀🏅 Selected as AHUT Featured Social Practice Team (1/4).
+
+- *2024.04*: &nbsp;🏆🥈 Awarded Second Prize in the Chinese College Student Competition on Energy Economics (Anhui Division).
+
+- *2024.03*: &nbsp;🚀📘 Approved for the 2024 AHUT Spring Social Practice Program (1/9).
+
+- *2024.01*: &nbsp;✉️🏛️ Research team received a Letter of Appreciation from the Ministry of Housing and Urban-Rural Development of China.
+
+- *2023.12*: &nbsp;🏆🥉 <span style="color:#d62728;"><strong>National Third Prize</strong></span>, 18th “Challenge Cup” National Undergraduate Academic Competition.
+
+- *2023.12*: &nbsp;🏆🌟 Awarded Outstanding Team in the 2023 Anhui Provincial Summer Social Practice Program.
+
+- *2023.12*: &nbsp;🏆🌟 Awarded Outstanding Team in the 2023 AHUT Summer Social Practice Program.
+
+- *2023.12*: &nbsp;🏆📊 Awarded Excellent Report Prize in the 13th Economic Hotspot Analysis Competition (Tsinghua University).
+
+- *2023.12*: &nbsp;🚀📘 Project selected for the 2023 National College Student Social Practice “Qian Xiao Qian Xiang” Program.
+
+- *2023.10*: &nbsp;🌍🎖️ Invited Representative at the 2023 World Youth Development Forum.
+
+- *2023.10*: &nbsp;🎤📊 Delivered oral presentation at the 3rd “Finance for National Development” Youth Academic Summit.
+
+- *2023.10*: &nbsp;📄🛠️ Utility Model Patent application formally accepted by CNIPA.
+
+- *2023.10*: &nbsp;📄📰 Research article published in *Xuejie XingWan* (Issue 10, 2023).
+
+- *2023.10*: &nbsp;🚀📘 Successfully completed the 2023 National Summer Social Practice Program (CUFE).
+
+- *2023.10*: &nbsp;🏆🌟 Awarded Outstanding Individual in the 2023 AHUT Summer Social Practice Program.
+
+- *2023.09*: &nbsp;🏆📊 Research report recognized as Outstanding Social Practice Research Report by the CYLC Central Committee.
+
+- *2023.07*: &nbsp;📊📘 Provincial Youth Development Research Project (No. AHQFZ2022003) successfully completed.
+
+- *2023.06*: &nbsp;📊🌟 Project “Research on the Development of the Nanjing Metropolitan Area (2023)” completed with Excellent rating.
+
+- *2023.04*: &nbsp;🏆🥇 Awarded First Prize in the 10th “Challenge Cup” Anhui Provincial Competition.
+
+- *2023.04*: &nbsp;🏆🥇 Awarded First Prize in the AHUT “Challenge Cup” University-Level Competition.
+
+- *2023.03*: &nbsp;📄🎬 Video work selected into the Chinese Literary and Artistic Resources Database (CFLAC).
+
+- *2023.03*: &nbsp;🚀📘 Project selected for the National College Student Social Practice “Qian Xiao Qian Xiang” Program.
+
+- *2023.02*: &nbsp;🏆📘 Awarded Outstanding Research Report in University Summer Social Practice Program.
+
+- *2023.01*: &nbsp;🏆🌟 Awarded Outstanding Team in University Summer Social Practice Program.
+
+- *2022.12*: &nbsp;📊🏭 Participated in large-scale field research on digital transformation of the steel industry involving over 180 enterprises.
+<details>
 
 # 📝 Publications 
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
@@ -77,5 +147,19 @@ Xueyang Li, **Jinlei Ma**<sup>†</sup>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.08* <span style="color:#d62728;"><strong>National Third Prize, 10th National College Student Statistical Modeling Competition</strong></span>
+
+- *2024.07* First Prize (Provincial Level), Anhui College Student Statistical Modeling Competition
+
+- *2024.07* Second Prize (Provincial Level), Anhui College Student Market Research and Analysis Competition
+
+- *2024.05* Third Prize, Chinese College Student Energy Economics Academic Innovation Competition
+
+- *2023.12* Excellent Report Award, 13th “Jin Jing Le Dao” Economic Hotspot Analysis Competition
+
+- *2023.12* <span style="color:#d62728;"><strong>Outstanding Research Report, Youth Development Department of the Communist Youth League Central Committee</strong></span>
+
+- *2023.12* <span style="color:#d62728;"><strong>National Third Prize, 18th “Challenge Cup” National Undergraduate Academic Competition</strong></span>
+
+- *2023.05* First Prize (Provincial Level), Anhui “Challenge Cup” Undergraduate Academic Competition
