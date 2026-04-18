@@ -22,13 +22,13 @@ I am Jinlei Ma, a fourth-year undergraduate student majoring in Economics and Fi
 
 Methodologically, I am particularly interested in the potential of artificial intelligence, machine learning, spatial analysis, and management science tools in climate change research. My interest is not limited to the techniques themselves, but rather in how these methods can help us better identify risk structures, characterise interactions among complex systems, and provide a more explanatory and operational evidence base for climate governance and policy analysis. In recent years, I have also begun to explore the potential application of world models in climate change research. In particular, I hope to investigate how world models can be used to simulate the coupled relationships between climate systems and human behaviour, urban operations, and policy responses, thereby offering new research tools for future risk prediction, adaptation evaluation, and transition pathway optimisation.
 
-For me, climate change research is not only an environmental issue, but also a comprehensive question involving urban development, economic systems, public governance, and social equity. I am still actively exploring how artificial intelligence and management science methods can more effectively serve climate risk research and economic systems analysis, and I hope to gradually develop a clearer and more coherent research trajectory through this process.
-
-I am still figuring out how tools from artificial intelligence and management science can help us better understand climate risk and economic systems. Feel free to reach out! <b>Email</b>: mjl19905464288@163.com
-
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="{{ '/files/previous_research.png' | relative_url }}" alt="Previous Research" style="max-width: 90%; border-radius: 4px;">
 </div>
+
+For me, climate change research is not only an environmental issue, but also a comprehensive question involving urban development, economic systems, public governance, and social equity. I am still actively exploring how artificial intelligence and management science methods can more effectively serve climate risk research and economic systems analysis, and I hope to gradually develop a clearer and more coherent research trajectory through this process.
+
+I am still figuring out how tools from artificial intelligence and management science can help us better understand climate risk and economic systems. Feel free to reach out! <b>Email</b>: mjl19905464288@163.com
 
 <details>
   <summary>关于我（中文）</summary>
